@@ -1,0 +1,44 @@
+ letra_a = 97
+
+ escreva "O jogo adivinhe o número mágico"
+ escreva "Estre jogo você tenta adivinhar o número mágico"
+
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {97.caractere} representa?"
+ numero1 = leia_inteiro
+
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {120.caractere} representa?"
+ numero2 = leia_inteiro
+ 
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {110.caractere} representa?"
+ numero3 = leia_inteiro
+
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {107.caractere} representa?"
+ numero4 = leia_inteiro
+
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {99.caractere} representa?"
+ numero5 = leia_inteiro
+ 
+ escreva "Qual o seu nome?"
+ nome = leia_texto
+ escreva "{nome}, qual o número a letra {100.caractere} representa?"
+ numero6 = leia_inteiro
+
+ se numero1 == letra_a
+ se numero2 == letra_b
+
+ escreva "Você ganhou"
+  
+ 
+ 
+ 
+ 
